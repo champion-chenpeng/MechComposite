@@ -28,7 +28,7 @@ pip install numpy matplotlib
 3. Run the main script:
 
 ```shell
-python All_cp.py
+python main.py
 ```
 
 4. The generated audio file, `output.wav`, will be saved in the project directory.
