@@ -9,7 +9,7 @@ The following dependencies are required to run the project:
 - Python 3.6 or higher
 - numpy
 - matplotlib
-- pydsmusic
+- pysynth(see pysynth_readme.md)
 
 ## Usage
 
